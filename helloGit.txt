@@ -6,6 +6,6 @@ hello Git
 hello Git
 
 2
-master test
+hot-fix test
 
 third change----
